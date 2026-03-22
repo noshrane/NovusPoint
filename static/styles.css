@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    font-family: "Kirang Haerang", serif;
+}
+
+.body {
+    width: 100%;
+}
+
+/* Colors */
+
+.orange {
+    background: #E66F3B;
+}
+
+.beige {
+    background: #DBCDC7;
+}
+
+.brown {
+    background: #1D1A18;
+}
+
+.orange-font {
+    color: #E66F3B;
+}
+
+.beige-font {
+    color: #DBCDC7;
+}
+
+.brown-font {
+    color: #1D1A18;
+}
+
+/* Fonts */
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+/* Portfolio page */
+
+.portfolio-top {
+    height: 20vh;
+}
+
+.screen-width {
+    width: 100%;
+}
+
+.center-text {
+    text-align: center;
+}
